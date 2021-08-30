@@ -1,8 +1,7 @@
-## Welcome to Jincenzi Wu HomePage
+## Jincenzi Wu
 
-You can use the [editor on GitHub](https://github.com/KKKKKKKKKKim/KKKKKKKKKKim.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Jincenzi Wu. I received my Master's degree at New York University in 2021. I am looking for a Ph.D position right now.
+My research interests include natural language processing and dialogue system.
 
 ### Education 
 
